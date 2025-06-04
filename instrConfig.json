@@ -1,0 +1,9 @@
+{
+    "instrPrefix":[
+        "#03"
+    ],
+
+    "measCommand":[
+        "rtermmax=500"
+    ]
+}

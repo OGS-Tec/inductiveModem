@@ -1,0 +1,27 @@
+{
+    "initialConfig":[
+        "pwron",
+        "*Init",
+        "*Init",
+        "pwron",
+        "SetConfigType=2",
+        "SetConfigType=2",
+        "pwron",
+        "SetEnableAutoIMFlag=0",
+        "SetEnableBackSpace=1",
+        "SetEnableBinaryData=0",
+        "SetEnableEcho=1",
+        "SetEnableHostFlagConfirm=0",
+        "SetEnableHostFlagTerm=0",
+        "SetEnableHostFlagWakeup=0",
+        "SetEnableHostPromptConfirm=0",
+        "SetEnableHostServeOnPwrUp=1",
+        "SetEnablePrompt=1",
+        "SetEnableHostWakeupCR=0",
+        "SetEnableSignalDetector=0",
+        "SetEnableSignalDetector=0",
+        "SetTermFromHost=36",
+        "SetTermToHost=13",
+        "gethd"
+    ]
+}

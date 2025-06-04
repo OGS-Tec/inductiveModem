@@ -1,0 +1,15 @@
+{
+    "slavePrefix":[
+        "!03"
+    ],
+
+    "captureLine":[
+        "pwron",
+        "forcecaptureline",
+        "sendwakeuptone"
+    ],
+
+    "initialConfig":[
+        "rtermmax=500"
+    ]
+}
